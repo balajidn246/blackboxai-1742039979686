@@ -1,0 +1,24 @@
+{
+  "thehive": {
+    "base_url": "http://thehive-instance.example.com",
+    "api_key": "YOUR_THEHIVE_API_KEY"
+  },
+  "cortex": {
+    "base_url": "http://cortex-instance.example.com",
+    "api_key": "YOUR_CORTEX_API_KEY"
+  },
+  "misp": {
+    "base_url": "http://misp-instance.example.com",
+    "api_key": "YOUR_MISP_API_KEY"
+  },
+  "email": {
+    "address": "phish@example.com",
+    "imap_server": "imap.example.com",
+    "username": "email_username",
+    "password": "email_password"
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "thephish.log"
+  }
+}
